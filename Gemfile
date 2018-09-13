@@ -43,6 +43,7 @@ gem 'devise', '~> 4.5'
 gem 'paperclip', '~> 6.1'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'acts_as_votable', '~> 0.11.1'
 
 
 group :development, :test do
