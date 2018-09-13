@@ -41,7 +41,8 @@ gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'sdoc', '~> 1.0'
 gem 'devise', '~> 4.5'
 gem 'paperclip', '~> 6.1'
-
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 
 
 group :development, :test do
