@@ -37,7 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
-gem 'simple_form', '~> 4.0', '>= 4.0.1'
+gem 'simple_form', '~> 5.0'
 gem 'sdoc', '~> 1.0'
 gem 'devise', '~> 4.5'
 gem 'paperclip', '~> 6.1'
